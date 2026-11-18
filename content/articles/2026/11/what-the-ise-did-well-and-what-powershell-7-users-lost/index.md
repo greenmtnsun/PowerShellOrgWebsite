@@ -1,5 +1,5 @@
 ---
-title: "What the ISE Did Well, and What PowerShell 7 Users Lost"
+title: "What the ISE Did Well, and Why There Is No PowerShell 7 ISE"
 description: "The Windows PowerShell ISE stopped at 5.1 on purpose. Here is what it got right, why there is no ISE for PowerShell 7, and what an admin moving from 5.1 to 7 should expect from the editors that remain."
 author: Keith Ramsey
 authors:
